@@ -12,7 +12,7 @@
     <artifactId>mkspkt</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mkspkt</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Micky's magic pocket</description>
 
     <properties>
         <java.version>1.8</java.version>
